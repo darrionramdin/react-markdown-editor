@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
+.PreviewTextArea {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.PreviewTextArea-container {
+    padding: 40px 40px 5px 40px;
+}
+
+.PreviewTextArea #header {
+    color: #333;
+}
+
+.PreviewTextArea p {
+    font-weight: 400;
+    line-height: 1.3rem;
+    word-spacing: 0.06rem;
+}

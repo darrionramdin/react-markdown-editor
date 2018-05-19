@@ -1,0 +1,14 @@
+.Main {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 540px auto;
+}
+
+.Main-left {
+    overflow: hidden;
+    grid-column: span 1;
+}
+
+.Main-right {
+    grid-column: span 1;
+}
